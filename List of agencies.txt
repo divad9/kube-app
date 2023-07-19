@@ -1,0 +1,120 @@
+Ministry of Agriculture and Rural Development
+	•	Agricultural Research and Extension Services
+	•	Animal Husbandry and Fisheries
+	•	Land and Water Resources
+	•	Rural Development
+	•	Water Resources
+	•	Nigerian Hydrological Services Agency (NIHSA)
+	•	National Water Resources Institute (NWRI)
+	•	National Water Resources Master Plan (NWRMP)
+	•	Federal Ministry of Water Resources (FMWR)
+Ministry of Aviation
+	•	Airports
+	•	Civil Aviation
+	•	Safety Regulation
+	•	Accident Investigation Bureau (AIB)
+	•	Nigerian Civil Aviation Authority (NCAA)
+Ministry of Budget and National Planning
+	•	Budget
+	•	National Planning
+	•	Statistics
+	•	National Bureau of Statistics (NBS)
+Ministry of Communication and Digital Economy
+	•	Information Technology
+	•	Telecommunications
+	•	Broadcasting
+	•	Nigerian Communications Commission (NCC)
+	•	Nigerian Broadcasting Commission (NBC)
+	•	Galaxy Backbone (GBB)
+Ministry of Defence
+	•	Army
+	•	Navy
+	•	Air Force
+	•	Defence Intelligence
+	•	Defence Intelligence Agency (DIA)
+Ministry of Education
+	•	Basic and Secondary Education
+	•	Tertiary Education
+	•	Special Education
+	•	Vocational Education
+	•	National Educational Research and Development Council (NERDC)
+	•	Universal Basic Education Commission (UBEC)
+Ministry of Environment
+	•	Climate Change
+	•	Ecological Management
+	•	Forestry
+	•	Pollution Control
+	•	National Environmental Standards and Regulations Enforcement Agency (NESREA)
+	•	Federal Ministry of Environment (FMENV)
+Federal Capital Territory (FCT)
+	•	Land and Housing
+	•	Planning and Development
+	•	Federal Capital Development Authority (FCDA)
+Ministry of Finance
+	•	Budget
+	•	Economic Management
+	•	Fiscal Policy
+	•	Debt Management Office (DMO)
+	•	Central Bank of Nigeria (CBN)
+Ministry of Foreign Affairs
+	•	Consular Affairs
+	•	International Cooperation
+	•	Migration
+	•	Nigerian Immigration Service (NIS)
+Ministry of Health
+	•	Family Health
+	•	Hospital Services
+	•	Public Health
+	•	National Primary Health Care Development Agency (NPHCDA)
+	•	National Agency for Food and Drug Administration and Control (NAFDAC)
+Ministry of Industry, Trade and Investment
+	•	Commerce
+	•	Consumer Protection
+	•	Industry
+	•	Nigerian Investment Promotion Commission (NIPC)
+	•	Standards Organization of Nigeria (SON)
+Ministry of Information and Culture
+	•	Broadcasting
+	•	National Orientation
+	•	Tourism
+	•	National Film and Video Censors Board (NFVCB)
+	•	National Institute for Cultural Orientation (NICO)
+Ministry of Interior
+	•	Immigration
+	•	Prisons
+	•	Security
+	•	Nigeria Security and Civil Defence Corps (NSCDC)
+Ministry of Justice
+	•	Civil Litigation
+	•	Criminal Litigation
+	•	Legal Services
+	•	Federal Ministry of Justice (FMJ)
+Ministry of Labour and Employment
+	•	Employment
+	•	Labour Relations
+	•	Productivity
+	•	National Productivity Centre (NPC)
+Ministry of Mines and Steel Development
+	•	Geology and Mineral Exploration
+	•	Metallurgical and Engineering Development
+	•	Nigerian Mining Corporation (NMC)
+Ministry of Women Affairs and Social Development
+	•	Child Development
+	•	Gender
+	•	Women Development
+	•	National Council for Women Development (NCWD)
+Ministry of Water Resources
+	•	Dams
+	•	Irrigation
+	•	Water Supply
+	•	Water Resources Research Institute (WRIR)
+Ministry of Youth and Sports Development
+	•	Development
+	•	Education
+	•	Sports
+	•	National Sports Commission (NSC)
+Ministry of Special Duties
+	•	Administration
+	•	General Services
+	•	Protocol
+	•	Office of the Secretary to the Government of the Federation (OSGF)

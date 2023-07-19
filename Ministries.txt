@@ -1,0 +1,72 @@
+Ministry	Departments
+Ministry of Agriculture and Rural Development	- Department of Agriculture
+	- Department of Fisheries and Aquaculture
+	- Department of Livestock and Pest Control
+Ministry of Aviation	- Nigerian Civil Aviation Authority (NCAA)
+	- Nigerian Airspace Management Agency (NAMA)
+	- Federal Airports Authority of Nigeria (FAAN)
+Ministry of Budget and National Planning	- Department of Budget
+	- Department of National Planning
+Ministry of Communications and Digital Economy	- Nigerian Communications Commission (NCC)
+	- National Information Technology Development Agency (NITDA)
+	- Nigerian Postal Service (NIPOST)
+Ministry of Defence	- Nigerian Army
+	- Nigerian Navy
+	- Nigerian Air Force
+Ministry of Education	- Federal Ministry of Education
+	- Universal Basic Education Commission (UBEC)
+Ministry of Environment	- Department of Climate Change
+	- Department of Pollution Control
+	- Department of Conservation
+Ministry of Finance, Budget, and National Planning	- Federal Ministry of Finance
+	- Budget Office of the Federation
+	- Debt Management Office (DMO)
+Ministry of Foreign Affairs	- Department of Consular and Immigration Affairs
+	- Department of International Cooperation
+Ministry of Health	- Federal Ministry of Health
+	- National Agency for Food and Drug Administration and Control (NAFDAC)
+	- National Primary Health Care Development Agency (NPHCDA)
+Ministry of Industry, Trade and Investment	- Nigerian Investment Promotion Commission (NIPC)
+	- Standards Organization of Nigeria (SON)
+	- Corporate Affairs Commission (CAC)
+Ministry of Information and Culture	- National Broadcasting Commission (NBC)
+	- National Orientation Agency (NOA)
+	- Nigerian Television Authority (NTA)
+Ministry of Interior	- Nigeria Immigration Service
+	- Nigeria Prisons Service
+	- Federal Fire Service
+Ministry of Justice	- Federal Ministry of Justice
+	- Legal Aid Council
+	- Nigerian Law Reform Commission
+Ministry of Labour and Employment	- Federal Ministry of Labour and Employment
+	- National Directorate of Employment (NDE)
+	- National Productivity Centre
+Ministry of Mines and Steel Development	- Nigerian Geological Survey Agency (NGSA)
+	- Nigerian Mining Cadastre Office
+Ministry of Niger Delta Affairs	- Niger Delta Development Commission (NDDC)
+	- Presidential Amnesty Programme (PAP)
+	- Niger Delta Basin Development Authority
+Ministry of Petroleum Resources	- Department of Petroleum Resources
+	- Nigerian National Petroleum Corporation (NNPC)
+	- Department of Petroleum Resources (DPR)
+Ministry of Police Affairs	- Nigerian Police Force
+Ministry of Power	- Federal Ministry of Power
+	- Nigerian Electricity Regulatory Commission (NERC)
+	- Transmission Company of Nigeria (TCN)
+Ministry of Science and Technology	- Federal Ministry of Science and Technology
+	- National Agency for Science and Engineering Infrastructure (NASENI)
+	- Nigerian Institute of Science Laboratory Technology (NISLT)
+Ministry of Sports and Youth Development	- Federal Ministry of Youth and Sports
+	- National Sports Commission
+	- National Youth Service Corps (NYSC)
+Ministry of Transportation	- Federal Ministry of Transportation
+	- Nigerian Ports Authority (NPA)
+	- Nigerian Maritime Administration and Safety Agency (NIMASA)
+Ministry of Water Resources	- Federal Ministry of Water Resources
+	- Nigeria Hydrological Services Agency
+	- National Water Resources Institute (NWRI)
+Ministry of Women Affairs	- Federal Ministry of Women Affairs
+	- National Centre for Women Development
+Ministry of Works and Housing	- Federal Ministry of Works
+	- Federal Ministry of Housing
+	- Federal Housing Authority (FHA)
