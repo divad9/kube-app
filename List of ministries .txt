@@ -1,88 +1,14 @@
-Sure, here is an exhaustive list of the ministries and departments in Nigeria:
-Ministry of Agriculture and Rural Development
-	•	Agricultural Research and Extension Services
-	•	Animal Husbandry and Fisheries
-	•	Land and Water Resources
-	•	Rural Development
-Ministry of Aviation
-	•	Airports
-	•	Civil Aviation
-	•	Safety Regulation
-Ministry of Budget and National Planning
-	•	Budget
-	•	National Planning
-	•	Statistics
-Ministry of Communication and Digital Economy
-	•	Information Technology
-	•	Telecommunications
-	•	Broadcasting
-Ministry of Defence
-	•	Army
-	•	Navy
-	•	Air Force
-	•	Defence Intelligence
-Ministry of Education
-	•	Basic and Secondary Education
-	•	Tertiary Education
-	•	Special Education
-	•	Vocational Education
-Ministry of Environment
-	•	Climate Change
-	•	Ecological Management
-	•	Forestry
-	•	Pollution Control
-Ministry of the Federal Capital Territory (FCT)
-	•	Land and Housing
-	•	Planning and Development
-Ministry of Finance
-	•	Budget
-	•	Economic Management
-	•	Fiscal Policy
-Ministry of Foreign Affairs
-	•	Consular Affairs
-	•	International Cooperation
-	•	Migration
-Ministry of Health
-	•	Family Health
-	•	Hospital Services
-	•	Public Health
-Ministry of Industry, Trade and Investment
-	•	Commerce
-	•	Consumer Protection
-	•	Industry
-Ministry of Information and Culture
-	•	Broadcasting
-	•	National Orientation
-	•	Tourism
-Ministry of Interior
-	•	Immigration
-	•	Prisons
-	•	Security
-Ministry of Justice
-	•	Civil Litigation
-	•	Criminal Litigation
-	•	Legal Services
-Ministry of Labour and Employment
-	•	Employment
-	•	Labour Relations
-	•	Productivity
-Ministry of Mines and Steel Development
-	•	Geology and Mineral Exploration
-	•	Metallurgical and Engineering Development
-Ministry of Women Affairs and Social Development
-	•	Child Development
-	•	Gender
-	•	Women Development
-Ministry of Water Resources
-	•	Dams
-	•	Irrigation
-	•	Water Supply
-Ministry of Youth and Sports Development
-	•	Development
-	•	Education
-	•	Sports
-Ministry of Special Duties
-	•	Administration
-	•	General Services
-	•	Protocol
-In 
+
+
+Nigeria’s basic education sector faces a range of systemic challenges that continue to hinder the delivery of quality learning. Overcrowded classrooms reduce teacher–pupil interaction and limit opportunities for personalised learning. Many schools, particularly in rural and underserved areas, lack access to up-to-date teaching resources, making lessons heavily reliant on traditional rote-learning methods that do not encourage critical thinking. Digital infrastructure remains inadequate, with limited availability of interactive learning tools, internet connectivity, and multimedia content in the classroom. Teacher professional development opportunities are also constrained, leaving many educators without the modern pedagogical skills required for 21st-century teaching. These gaps collectively contribute to low pupil engagement, reduced comprehension, and poor learning outcomes.
+
+The Huawei IdeaHub provides a comprehensive and scalable solution to these challenges by:
+	•	Delivering interactive, technology-enhanced lessons that foster active participation, making learning more engaging and accessible.
+	•	Supporting remote and blended teaching models to bring quality instruction to hard-to-reach areas, ensuring equitable access to education.
+	•	Providing a robust platform for continuous teacher professional development, enabling educators to access training, collaborate with peers, and share best practices in real time.
+	•	Facilitating project-based and experiential learning, encouraging pupils to apply knowledge creatively and develop problem-solving skills.
+	•	Integrating multimedia-rich educational content that caters to diverse learning styles, improves comprehension, and aligns with the national curriculum.
+	•	Enhancing administrative efficiency by enabling easy lesson planning, content management, and performance tracking through digital tools.
+
+By addressing both infrastructural and pedagogical gaps, the Huawei IdeaHub has the potential to transform classrooms into dynamic innovation spaces, thereby improving learning outcomes and preparing pupils for the demands of a technology-driven society.
+
